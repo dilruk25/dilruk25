@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dilruk25
-- 👀 I’m interested in Web Designing & Computer Troubleshooting.
-- 🌱 I’m currently learning at Informatics Institute of Technology.
+- 👀 I’m interested in Web Design & Computer Troubleshooting.
+- 🌱 I’m currently studying at Informatics Institute of Technology.
 - 💞️ I’m looking to collaborate on group projects.
 
 <!---
