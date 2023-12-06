@@ -37,6 +37,7 @@
 
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center;">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dilruk25&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="dilruk25">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilruk25&theme=github_dark" alt="dilruk25" style="max-width: 100%">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=github_dark" alt="dilruk25" style="max-width: 100%">
+  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilruk25&theme=github_dark" alt="dilruk25" style="max-width: 100%">
+  
 </div>
