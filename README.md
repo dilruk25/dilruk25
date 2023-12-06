@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dilruk Jayasinghe</h1>
-<h2 align="center">Software Engineering undergraduate at IIT.</h2>
+<h2 align="center">Passionate Front End Web Developer-in-the-Making.</h2>
 <img align="right" alt="coding person" width="400" src="https://static.vecteezy.com/system/resources/previews/000/256/945/large_2x/vector-designer-s-desktop-illustration.jpg">
 
 <p align="left">
@@ -39,7 +39,7 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilruk25&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="dilruk25 style="width: 62%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilruk25&show_icons=true&theme=github_dark&layout=compact" alt="dilruk25 style="max-width: 100%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilruk25&theme=github_dark" alt="dilruk25" style="width: 60%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=github_dark" alt="dilruk25" style="width: 40%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=github_dark" alt="dilruk25" style="width: 50%">
 </div>
