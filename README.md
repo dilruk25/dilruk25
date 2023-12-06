@@ -41,5 +41,5 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dilruk25&show_icons=true&theme=github_dark&locale=en&layout=compact" alt="dilruk25 style="width: 62%">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilruk25&theme=github_dark" alt="dilruk25" style="width: 60%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=github_dark" alt="dilruk25" style="width: 60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=github_dark" alt="dilruk25" style="width: 40%">
 </div>
