@@ -36,8 +36,5 @@
 </p>
 
 <div style="display: flex; flex-direction: column; gap: 20; align-items: center;">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dilruk25&theme=nord_bright" alt="dilruk25" style="float: left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dilruk25&theme=nord_bright" alt="dilruk25" style="float: right; height: 200px;">
-  <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dilruk25&theme=nord_bright" alt="dilruk25" style="max-width: 100%;width: 600px;">
   
 </div>
